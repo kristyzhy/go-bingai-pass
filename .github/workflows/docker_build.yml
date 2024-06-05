@@ -40,4 +40,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            docker.io/zklcdc/go-bingai-pass:latest
+            jessicayun/go-bingai-pass:latest
